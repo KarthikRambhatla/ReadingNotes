@@ -1,4 +1,5 @@
-# Introduction
+# Meaningful Names
+
 We name a lot of things day-in and day-out. So we should be good at it. Here are some things to keep in mind while naming
 * Use intention-revealing names:
  
@@ -81,7 +82,7 @@ We name a lot of things day-in and day-out. So we should be good at it. Here are
 # Final Words
 
     Do not be afraid of renaming things for the fear that some other developers will object. You will probably end up surprising someone but do not let it stop.
-           
+
 
 
 
