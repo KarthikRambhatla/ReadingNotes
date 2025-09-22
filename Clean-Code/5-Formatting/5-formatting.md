@@ -1,0 +1,3 @@
+- Purpose: 
+- vertical formatting
+    - The Newspaper Metaphor
