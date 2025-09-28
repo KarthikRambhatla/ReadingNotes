@@ -1,0 +1,19 @@
+## Topics
+- Computer Architecture
+- Application Architecture
+- Design Requirements
+- Networking Basics
+    - Internet Protocol (IP)
+    - TCP, UDP
+    - DNS
+- Application Program Interfaces (APIs)
+    - HTTP
+    - Web Sockets
+    - API Paradigms
+    - API Design
+- Caching Basics
+    - Caching
+    - Content Delivery Networks (CDNs)
+- Proxies
+    - Proxies and Load Balancers
+    - Consistent Hashing
