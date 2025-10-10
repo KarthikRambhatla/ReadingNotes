@@ -1,0 +1,1 @@
+https://medium.com/@kimball.robinson/embracing-the-journey-of-learning-design-including-patterns-39524cfae456
