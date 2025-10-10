@@ -1,0 +1,1 @@
+But when we have many many new ducks being added and have different behaviors. This becomes a problem. we repeat the code in the ducks that have same fly behavior, quack behavior and might miss to keep those behaviors consistent during changes to their behaviors.
