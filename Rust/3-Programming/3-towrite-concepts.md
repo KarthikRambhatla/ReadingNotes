@@ -1,0 +1,20 @@
+- structs
+- Enums
+- Pattern matching
+    - Result<Ok, Error>
+    - Option<>
+    - Some, None
+- Packages, Crates
+- Collections
+- Error Handling
+    - Panic!
+- Generics
+- Traits
+- Lifetimes
+- Tests
+- Functional Programming
+    - Closures
+    - Iterators 
+- Object Oriented features
+- Unsafe Rust, FFI
+

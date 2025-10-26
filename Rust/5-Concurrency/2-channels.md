@@ -1,0 +1,4 @@
+- Communication between threads
+- multi producer single consumer (mpsc) channels
+- cross beam channels
+- `Do not communicate by sharing memory. Instead share memory by communicating`
