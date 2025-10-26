@@ -43,3 +43,6 @@ But may be we could do better by using while loop and hopping over a spot when w
 ## Complexity:
 - Time: O(n)
 - Space: O(1)
+
+## Notes:
+- We could also add a zero at the start and end to make it easy for checks
