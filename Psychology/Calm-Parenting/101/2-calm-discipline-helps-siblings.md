@@ -261,3 +261,86 @@ child may not happily eat chicken, but will be a calm dinner and some good probl
 * Special time works wonders, Be ruthless - No Meetings, entertaining, work emails in eventing. Even if you give up pay for these hours it is worth it. Still if child can't manage her emotions - Time-in, Scheduled melt downs.
 
 ### When your child is Acting Out: Time-in
+
+💬 **Scenario**
+---------------
+
+Let's say your daughter acting cranky. She throws her cup across the room. Should you send her to time-out?
+
+If she can articulate - she might say
+
+```
+Hey Mum, Dad, I'm having a really hard time here. I woke up feeling grumpy. We were out of my favorite cereal. I missed you so much at nursery. It took a lot for me to sit quietly for so much of the day and follow instructions. My friend told me I couldn't come to her birthday party if I didn't play the game her way. And then I finally get home hungry and grumpy and that little brother you think is cute is always on your lap, while you tell me to wait just a minute! I wonder if anyone around here even cares about me at all! May be you got a replacement because I'm not just good enough for you!
+```
+
+She can't say it , so acts it out with difficult behavior. Stuffing down all her fears and tears she finally waits for a safe chance to let it out. 
+
+> when children purposefully break the rule ➡️ They are asking for help with those turbulent feelings. So *Time-in*
+
+```
+Cups are not for throwing. You are having a hard time. Aren;t you sweetie> Let's go to our comfort spot and snuggle for a bit.
+```
+Hug her and take her to a cosy designated spot, giggle and relax.
+
+❌ No need to punish her now. She has already learnt that she does not want to throw the cup next time. She knows
+
+- Parents are on my side. No need to throw cup even if i'm upset. They will listen and help 
+- When I'm upset, I feel urgent need to show how unhappy, but if I take few minutes to sit without lashing out. Those feelings go away.
+- My parents love me and accept me just as I am, including when I'm feeling difficult emotions. **Foundation of Self-Esteem**
+- After I calm down, I can always make things better. First step to accept nobody is perfect and we can admit and repair mistakes.
+
+----------
+
+Sometimes, attention is not just enough. He won't feel and act better. In that case, he needs more help. Usually he is resisting your connection because feeling his love will open all the tears. A meltdown is just waiting to happen. Invite it.
+
+### Scheduled Meltdowns - Helping Kids with Big Emotions
+
+It is the same meltdown your child will have at playground or supermarket, except that you give him a chance at home when you are ready.
+
+It may seem odd But your kid has those feelings whether invited or not. Sometimes, Kids (just like adults) need to cry once that relaxes them. He feels happier and more closer to you.
+
+It is a gift if you can welcome your childs meltdown and help him through it. But no parents first reaction is `Aha! he will get to express all the emotions`
+
+When children whine and get rigid - It is often they have an emotional backpack. Eg: physically sick, favorite teacher absent, developmental leap like learning to ride a bike or just accumulated micro stresses. We don't need to know the reason to help him. Laughing or crying will heal.
+
+**Steps**:
+
+0. Acknowledge your irritation and try to shift to be empathic, compassionate. 
+> Children need love most when they deserve it least.
+
+1. **Create safety** - Physical affection, Rought and tumble and get him laughing. Shifts him to bonding and makes more likely to cry instead of anger.
+
+2. **Invite the meltdown by setting kind limit** - Tell him something like -  we need to stop playing soon. That invites all his grief. you can also set kind limit about behavior or something he wants.
+
+3. **If he gets angry - ⬆️ compassion** - When you empathize it makes him angry - because he gets in touch with his feelings. His anger is defence against more vulnerable feelings. It is a challenge but stay compassionate enough.
+
+4. **What if he does not cry** - Backoff, build safety and connection. Do rough and tumble and special time.
+
+5. **Welcome the upset** - He will likely cry if you are compassionate and soften your heart. The fear is locked in his body and relaxes if he cries. He may thrash and lash out - move back so he can't hurt you. **Anger is not the healing part**. Job is to help him feel safe enough to get past anger to fear, grief and powerlessness beneath.
+
+6. **What if he Yells at you to shut up?** - Stop talking. Deepest healing is beyoind words. Just help him feel safe enough to cry.
+
+7. **What if he won't let you hold him.** - Stay close, stay present with his pain. Don't think about anything else. He will be back in your arms, sobbing
+
+8. **What if he yells at you to go away?** - He is trying to regulate his intensity of emotion. He feels safe with you so feelings come up more intensely in your presence. So he sends you away so that he need not feel those unbearable emotions. But he does not really want you to leave, because he needs you to see him safely through. If you leave him alone - Stuffs up emotions and pops up later. To work through emotions you need to feel it. Young children don't feel safe enough to face those scary feelings. Say you will move back and be there whenever you are ready for a hug.
+
+9. **Once he stops crying, he'll probably want to cuddle** - He might change the subject but he still wants to know it was okay to have those feelings. You can just say that Those are big feelings and That was hard work. I think we need a big hug. Then help him <u> reflect what happened in the form of a story </u> 
+
+📝 you were so mad and sad. You yelled and tried to hit me. Mummy said No hitting, hitting hurts. and held you so that you could not hit. Amma always keeps everyone safe. You were so upset and cried. Everybody needs to cry sometimes. Then you were done crying, Amma hugged you and held you and we snuggled and felt better.
+
+10. **What if its hard for you to tolerate your child crying**     
+     - Keep Breathing
+     - Reassure yourself it is not an emergency
+     - stay as calm and compassionate as you can
+When we are able to breathe through our own fear in the face of child's pain, we heal ourselves too. 
+
+11. **Does this teach kids to be `drama queens`?** Opposite. It teaches them to accept her feeling and can work, regulate. Some sensitive children may need to cry daily, many once a week but all of them cry less over time.
+
+You will see a big difference between meltdowns. He will feel more closer to you, more emotionally generous. He will be increasingly happier and can manage himself better.
+
+### How to help each child - When you have more than One Upset Child
+
+Preventive Maintenance is so important that it avoids these cases mostly. But, sometimes it is inevitable.
+
+
+
