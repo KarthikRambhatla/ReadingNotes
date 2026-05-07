@@ -342,5 +342,30 @@ You will see a big difference between meltdowns. He will feel more closer to you
 
 Preventive Maintenance is so important that it avoids these cases mostly. But, sometimes it is inevitable.
 
+You are the only one and both children really need you at once. What can you do?
 
+1. **When both children need you at once, try to tend to them both** 
+❌ If you pick one, children perceive you as picking favorites or taking sides.
+Announce what is happening - 
+📝 I have two upset children who are both hurting right now! You both need your daddy right now. Come here, There is always plenty of room in my arms, cry as much as you want, Then we will sort this out and make everything better. Whatever happens, we always work it out.
 
+This is not easy but possible. Keep each other outside of physical reach.
+
+2. **If you need to go to one child over the other, speak to the child you are not going to**
+
+💬 When one child is hurt physically (B) and other emotionally (K)
+
+📝 K, I hear you are hurting and you need me and I will be right there. I am just helping B with his owie, and then i will come to you.
+
+3. **Keep the less needy child busy while you tend to the one who is more upset**
+
+If one child is not particularly upset, connect briefly and make sure she is okay. Give her a hug and tell her -  I have something special for you to do for a few minutes while I help your sister with her feelings. Pull up an activity she likes.
+
+4. **When your other child is concerned about the crying sibling, acknowledge her feelings and reassure her.**
+
+5. **If the other child insists on coming close** - sit on the floor, keep them opposite sides and acknowledge feelings of both.
+
+6. **The child having meltdown will often get angry that sibling is intruding** - Acknowledge and restore safety
+📝 You dont want your sister here. Having a hard enough time without her. Sometimes it is hard to have another person around. She is just worried about you. She will stay over here, away from you. I am right here for you.
+
+7. **Keep your sense of humor** - Take a deep breath , keep calm and remind 
