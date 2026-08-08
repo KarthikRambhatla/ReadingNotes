@@ -164,3 +164,40 @@ We need 4 components. 3 being FTI and one being data pipeline that data engineer
  ![alt text](image-4.png)
 
 **Data Collection Pipeline**
+
+- Collect data from Linkedin, Github, Blogs, etc
+- Use ETL (**E**xtract, **T**ransform, **L**oad ) pattern to get data from platforms, standardize it and load it into a data warehouse.
+- The output of this component will be a NoSQL DB - MongoDB (usually not a data warehouse but will act as one for our simple case)
+
+Collected data is binned into 3 categories:
+Articles (Medium, Substack) | Posts (LinkedIn) | Code (GitHub)
+
+Each category will be processed differently like chunking strategy could be different and we can switch the source from LinkedIn to X or GitHub to GitLab. To make this modular we use an ETL step.
+
+**Feature Pipeline**
+- It processes 3 categories differently - Articles, Posts, Code. 
+- 3 main processing steps for fine-tuning and RAG: Cleaning, Chunking and embedding
+- It creates two snapshots of the digital data - one after Cleaning (used for fine-tuning) and one after embeding (used for RAG)
+- It uses a logical feature store instead of a specialized feature store
+
+Central piece of RAG - Vector DB - We can access data points using their ID and collection name - NoSQL DB
+
+**Training Pipeline**
+- It takes instruct datasets from feature store, fine-tunes an LLN with it and stores the weights in model registry. Whenever a new instruct dataset available it triggers the training pipelines and fine-tunes an LLM
+
+Initial stages, data science team owns it to run experiments and do hyperparameter tuning to pick the best set. An experiment tracker will be used to log everything of value and compare. Ultimately they will pick one and then it is stored in model registry. Once this `Experimentation phase` is over, we will automate this process, known as *Continuous Training*
+
+Then Testing pipeline is triggered for detailed analysis and if it passes all the tests to see latest candidate is better than production candidate it can deploy to production. With an expert in loop to check the reports and approve.
+
+**Inference Pipeline**
+- Loads a fine-tuned LLM from model registry , from the logical feature store it acceses the vector DB for RAG. Takes in client requests through REST API as queries, uses the fine tuned LLM and access to vector DB to carry out RAG and answer the query.
+
+All the client queries, enriched prompts using RAG and generated answers are sent to prompt monitoring system to analyze, debug and better understand the system. It can also trigger alarms to take manual/automated actions.
+
+### Final Thoughts on FTI Design and LLM Twin Architecture
+
+This is a tool to clarify how to design ML systems. Not to be rigid, we switched dedicated feature store to a logical one. the important thing is the properties of the feature store - versioned and reusable training dataset.
+
+- Data Collection and Feature Pipeline - mostly CPU based , ❌ powerful machines
+- Training pipeline - GPU based to load LLM, finetune it, scales vertically adding more GPUs
+- Inference pipeline - It is in the middle, still needs powerful enough to serve user fast but less compute intensive than training. scales horizontally based on number of client requests.
