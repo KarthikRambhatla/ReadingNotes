@@ -76,3 +76,49 @@ To install Poe the poet as plugin: `poetry self add 'poethepoet[poetry_plugin]'`
 
 ## 2. MLOps and LLMOps tooling
 
+1. [Model Registry](#21-hugging-face-model-registry)
+2. [Orchestrator, artifacts and metadata](#22-zenml-orchestrator-artifacts-and-metadata)
+3. [Experiment Tracket]()
+4. [Prompt Monitoring]()
+5. [Databases for storing unstructured and vector data]()
+6. [AWS SageMaker]()
+
+To start in this repo. Have `docker` installed and fill `.env` file with all the creds needed, then run `poetry poe local-infrastructure-up` to locally spin up ZenML, MongoDB and Qdrant databases.
+
+## 2.1 Hugging Face: Model Registry
+
+A model registry is a centralized repo that manages ML models throughout their lifecycle. It stores models along with their metadata, version history, and performance metrics - single source of truth for models. 
+
+In MLOps, model registry is crucial for tracking, sharng, and documentiing model versions, facilitating team collaboration. It integrates with CI/CD pipelines.
+
+using Hugging Face, we can easily integrate model with all frameworks around LLMs ecosystem - Unsloth for fine-tuning and SageMaker for inference.
+
+All other ML tools also provide their ownl model registries. Hugging Face provides easy shareability and integration throught Open source.
+
+## 2.2 ZenML: Orchestrator, Artifacts and Metadata
+
+Bridges ML <-> MLOps. offers features that make pipline traceability, reproducibility, deployment and maintainability easier. 
+
+It is designed to create reproducible workflows in machine learning. Helps transitioning from exploratory research in Jupyter notebooks to a production-ready ML environment.
+
+It tackles production-based replication issues, such as versioning difficulties, ,reproducing experiments, organizing complex ML workflows, bridging training and deployment, tracking metadata.
+
+ZenML main features are otchestrating ML pipeline, storing and versioning piplines as outputs, attaching metadata to artifacts for better observability.
+
+`stack` - A ZenML stack will enable you to connect ZenML to different cloud services. 
+Compute engine can be AWS SageMaker, Remote Storage can be AWS S3 or Azure Blob, Container registry can be AWS ECR or Docker registry.
+
+ZenML acts as a glue that brings all infra and tools in one place with its `stack` feature. No Vendor lock. Abstracts away implementation of Python code from infra it runs on.
+
+So when we write LLM Twin, python code does not contain S3/ECR particularities. ZenML takes care of them.
+
+Local version comes as a python package that we can install with poetry. we will also use their cloud serverless option to deploy the pipeline to AWS.
+
+### Orchestrator
+
+Automates, schedules and coordinates all ML pipelines. It ensures that each pipeline - data ingestion, preprocessing, and model training and deployment executes in the correct order and handles dependencies effeciently.
+
+It makes resource utilization optimum, hanles failures gracefully, enhances scalability, making complex pipelines reliable and easier to manage
+
+ZenML works with **pipelines** and **steps**. A pipline is a high level object that contains multiple steps. A function becomes a ZenML pipeline by being decorated with `@pipeline` and a step when decorated with `@step`. This is a standard pattern when using orchestrators: a high level function often called pipeline that calls multiple units/steps/tasks.
+
